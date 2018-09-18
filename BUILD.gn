@@ -224,6 +224,7 @@ static_library("electron_lib") {
     "//components/viz/service",
     "//content/public/app:both",
     "//content/public/child",
+    "//chrome/test/chromedriver",
     "//device/geolocation",
     "//gin",
     "//net:net_resources",
